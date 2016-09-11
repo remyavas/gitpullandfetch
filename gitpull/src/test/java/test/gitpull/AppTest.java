@@ -36,5 +36,7 @@ public class AppTest
         assertTrue( true );
         System.out.println("gitpull");
         System.out.println("gitpull2");
+        System.out.println("gitpull4");
+        System.out.println("gitpull5");
     }
 }
